@@ -13,6 +13,10 @@
 		238652181B4CFA6B0064E396 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 238652171B4CFA6B0064E396 /* Images.xcassets */; };
 		2386521B1B4CFA6B0064E396 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 238652191B4CFA6B0064E396 /* LaunchScreen.xib */; };
 		238652271B4CFA6B0064E396 /* lit_count2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 238652261B4CFA6B0064E396 /* lit_count2Tests.swift */; };
+		238652341B4D00DB0064E396 /* koushi1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 238652301B4D00DB0064E396 /* koushi1.jpg */; };
+		238652351B4D00DB0064E396 /* koushi2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 238652311B4D00DB0064E396 /* koushi2.jpg */; };
+		238652361B4D00DB0064E396 /* koushi3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 238652321B4D00DB0064E396 /* koushi3.jpg */; };
+		238652371B4D00DB0064E396 /* koushi5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 238652331B4D00DB0064E396 /* koushi5.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +40,10 @@
 		238652201B4CFA6B0064E396 /* lit_count2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lit_count2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		238652251B4CFA6B0064E396 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		238652261B4CFA6B0064E396 /* lit_count2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lit_count2Tests.swift; sourceTree = "<group>"; };
+		238652301B4D00DB0064E396 /* koushi1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = koushi1.jpg; path = ../../PHP/story/teachers/img/koushi1.jpg; sourceTree = "<group>"; };
+		238652311B4D00DB0064E396 /* koushi2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = koushi2.jpg; path = ../../PHP/story/teachers/img/koushi2.jpg; sourceTree = "<group>"; };
+		238652321B4D00DB0064E396 /* koushi3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = koushi3.jpg; path = ../../PHP/story/teachers/img/koushi3.jpg; sourceTree = "<group>"; };
+		238652331B4D00DB0064E396 /* koushi5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = koushi5.jpg; path = ../../PHP/story/teachers/img/koushi5.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +85,10 @@
 		2386520D1B4CFA6B0064E396 /* lit_count2 */ = {
 			isa = PBXGroup;
 			children = (
+				238652301B4D00DB0064E396 /* koushi1.jpg */,
+				238652311B4D00DB0064E396 /* koushi2.jpg */,
+				238652321B4D00DB0064E396 /* koushi3.jpg */,
+				238652331B4D00DB0064E396 /* koushi5.jpg */,
 				238652101B4CFA6B0064E396 /* AppDelegate.swift */,
 				238652121B4CFA6B0064E396 /* ViewController.swift */,
 				238652141B4CFA6B0064E396 /* Main.storyboard */,
@@ -192,8 +204,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				238652361B4D00DB0064E396 /* koushi3.jpg in Resources */,
 				238652161B4CFA6B0064E396 /* Main.storyboard in Resources */,
+				238652371B4D00DB0064E396 /* koushi5.jpg in Resources */,
 				2386521B1B4CFA6B0064E396 /* LaunchScreen.xib in Resources */,
+				238652341B4D00DB0064E396 /* koushi1.jpg in Resources */,
+				238652351B4D00DB0064E396 /* koushi2.jpg in Resources */,
 				238652181B4CFA6B0064E396 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
